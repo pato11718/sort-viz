@@ -1,5 +1,5 @@
  
-{ "sort_viz": {
+{ "sort-viz": {
     "root": ".",
     "thumb": "makerchip/thumb.png",
     "desc": "Sorting nertwork in TL-V with visualization.",
